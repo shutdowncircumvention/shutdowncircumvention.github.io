@@ -1,14 +1,11 @@
 <!-- material/tags { scope: true } -->
 
 ---
-
 title: Tella
 tags:
-
-- macOS
-- Linux
-- Windows
-
+  - MasOC
+  - Linux
+  - Windows
 ---
 
 # Tella
