@@ -1,13 +1,13 @@
+<!-- material/tags { scope: true } -->
+
 ---
 tags:
-  OS:
-    - macOS
-    - Linux
-    - Windows
-  Use Cases:
-    - gain internet access
-    - DNS
-    - Restricted Network
+  - macOS
+  - Linux
+  - Windows
+  - gain internet access
+  - DNS
+  - Restricted Network
 ---
 
 # Iodine
