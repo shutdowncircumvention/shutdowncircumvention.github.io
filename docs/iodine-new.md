@@ -53,3 +53,38 @@ Here's a simplified overview of how Iodine works:
 - The user generates a public key and shares it with the server.
 - The user uses their device to send DNS queries to the Iodine server, which are then transmitted as encrypted data packets.
 - The Iodine server receives these packets and forwards them back to the original sender.
+
+# How to Install
+
+=== "macOS"
+    ### How to Install on macOS
+    1. Open the terminal.
+    2. Run the following command:
+       ```bash
+       brew install iodine
+       ```
+    3. Verify installation:
+       ```bash
+       iodine --version
+       ```
+
+=== "Linux"
+    ### How to Install on Linux
+    1. Open your terminal.
+    2. Install Iodine using the package manager:
+       ```bash
+       sudo apt install iodine  # Debian/Ubuntu
+       sudo yum install iodine  # RHEL/CentOS
+       sudo pacman -S iodine    # Arch Linux
+       ```
+    3. Verify installation:
+       ```bash
+       iodine --version
+       ```
+
+=== "Android"
+    ### How to Install on Android
+    1. Open the Google Play Store.
+    2. Search for **Iodine**.
+    3. Tap **Install**.
+
