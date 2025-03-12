@@ -1,0 +1,17 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - template: template.md
+  - Tella: tella.md
+  - Iodine: iodine.md
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+plugins:
+  - search
+  - tags
