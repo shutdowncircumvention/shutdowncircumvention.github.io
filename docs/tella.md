@@ -1,7 +1,6 @@
 <!-- material/tags { scope: true } -->
 
 ---
-title: Tella
 tags:
   - MasOC
   - Linux
