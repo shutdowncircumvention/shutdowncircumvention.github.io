@@ -26,3 +26,5 @@ markdown_extensions:
 plugins:
   - search
   - tags
+features:
+  - navigation.expand
