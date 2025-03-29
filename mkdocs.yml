@@ -5,21 +5,12 @@ nav:
   - template: template.md
   - Archiving & Secure Storage:
       - Tella: tella.md
-      - Picocrypt: 
+      - Save: OpenArchive.md
   - Communication:
       - Briar: Briar.md
-      - Bridgefy: 
-      - JAMI: 
-      - SMS without Border: 
   - Restoring internet access:
       - Iodine: iodine-new.md
-      - E-SIM:
-  - Media Authentication: 
-    - proofmode:  
-    - 
-  - Browser:
-    - Ceno Browser:
-    - Tor:
+      - E-SIM: e-sim.md
   - Mesh Network:
     - Meshtastic: meshtastic.md
 
