@@ -1,9 +1,28 @@
 site_name: My Docs
+
 nav:
   - Home: index.md
   - template: template.md
-  - Tella: tella.md
-  - Iodine: iodine-new.md
+  - Archiving & Secure Storage:
+      - Tella: tella.md
+      - Picocrypt: 
+  - Communication:
+      - Briar: Briar.md
+      - Bridgefy: 
+      - JAMI: 
+      - SMS without Border: 
+  - Restoring internet access:
+      - Iodine: iodine-new.md
+      - E-SIM:
+  - Media Authentication: 
+    - proofmode:  
+    - 
+  - Browser:
+    - Ceno Browser:
+    - Tor:
+  - Mesh Network:
+    - Meshtastic: meshtastic.md
+
 theme:
   name: material
 markdown_extensions:
