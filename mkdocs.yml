@@ -3,16 +3,17 @@ site_name: My Docs
 nav:
   - Home: index.md
   - template: template.md
-  - Archiving & Secure Storage:
-      - Tella: tella.md
-      - Save: OpenArchive.md
-  - Communication:
-      - Briar: Briar.md
-  - Restoring internet access:
-      - Iodine: iodine-new.md
-      - E-SIM: e-sim.md
-  - Mesh Network:
-    - Meshtastic: meshtastic.md
+  - Tool:
+    - Archiving & Secure Storage:
+        - Tella: tella.md
+        - Save: OpenArchive.md
+    - Communication:
+        - Briar: Briar.md
+    - Restoring internet access:
+        - Iodine: iodine-new.md
+        - E-SIM: e-sim.md
+    - Mesh Network:
+      - Meshtastic: meshtastic.md
 
 theme:
   name: material
